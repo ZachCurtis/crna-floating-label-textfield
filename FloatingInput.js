@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { StyleSheet, TextInput, View, Dimensions } from 'react-native';
-import Underline from './underline'
-import AnimatedLabel from './animatedLabel'
+import Underline from './Underline'
+import AnimatedLabel from './AnimatedLabel'
 
 
 export default class FloatingInput extends Component {
