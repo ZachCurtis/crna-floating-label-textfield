@@ -1,2 +1,2 @@
 # crna-floating-label-textfield
-Based on material design floating label text field.
+A simplified rework of https://github.com/eyaleizenberg/react-native-floating-label-text-input for Create React Native App.
